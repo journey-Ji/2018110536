@@ -12,3 +12,5 @@ if __name__ == '__main__':
             print(i," * ",j ," = ",i*j)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+"Add parts To do assignments. : by 2019102217 이형우"
